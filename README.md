@@ -2,6 +2,8 @@
 
 <img src="https://github.com/darrinlallen/adflixsocial/blob/main/src/IMG_0991.svg" width="50%" alt="Project Overview">
 <h1><a href="https://droidcaralarm.vercel.app/">Droid car alarm website(click here)</a></h1>
+<h1><a href ="Complete_Utility_Patent_AI_Vehicle_Safety_System.pdf">provisional patent(click here)
+</a></h1>
 Welcome to **Droid Car Alarm**! In an era where technology meets safety, Droid Car Alarm stands out as an innovative solution designed to protect both your vehicle and the precious lives inside it. Combining advanced artificial intelligence with integrated cameras and speakers, Droid Car Alarm proactively prevents tragedies like child and pet hot car deaths, while also delivering cutting-edge theft prevention technology.
 
 ## 📜 Introduction
