@@ -7,7 +7,7 @@
 Welcome to **Droid Car Alarm**! In an era where technology meets safety, Droid Car Alarm stands out as an innovative solution designed to protect both your vehicle and the precious lives inside it. Combining advanced artificial intelligence with integrated cameras and speakers, Droid Car Alarm proactively prevents tragedies like child and pet hot car deaths, while also delivering cutting-edge theft prevention technology.
 
 ## 📜 Introduction
-let me know if you want to partner....
+Let me know if you want to partner....
 Created to redefine vehicle security, **Droid Car Alarm** harnesses the power of AI to monitor the interior environment in real time, ensuring no child or pet is left unattended in dangerous heat conditions. This smart system immediately alerts owners and uses in-car audio warnings to prevent heat-related emergencies.
 
 Beyond safeguarding your loved ones, Droid Car Alarm incorporates all the functionality of a state-of-the-art car alarm system, including motion sensors, tamper detection, immobilization, and loud alarms to deter and prevent vehicle theft.
